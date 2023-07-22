@@ -1,7 +1,7 @@
 body{
 
     background: linear-gradient(to bottom ,#FFFF55,#FF5555 ,#FF55FF,#55FF55  );
-    background: radial-gradient(circle, #ff0000, #512E5F );
+    background: radial-gradient(circle, #dd3c3c, #4f5da2 );
     background-position: bottom;
 }
 
